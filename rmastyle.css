@@ -31,3 +31,10 @@
    align-items: center;
    
  }
+
+ .hr00{
+  
+      border: 10px solid red;
+      border-radius: 5px;
+    
+ }
