@@ -1,0 +1,33 @@
+.BANNERCONTACT{
+     display:flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+    padding: 0.5cm;
+    margin: 0.2cm;
+    
+ }
+
+ .styl{
+    position:absolute; 
+    left:1160px; 
+    top:155px;
+ }
+
+ .styl1{
+    position:absolute; 
+    left:80px; 
+    top:110px;
+ }
+
+ .styl0{
+    position:absolute; 
+    left:1050px; 
+    top:160px;
+ }
+
+ .mrqstyl{
+    font-size: 1.8cm;
+    color: white;
+   align-items: center;
+   
+ }
